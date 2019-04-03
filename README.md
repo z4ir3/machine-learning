@@ -1,2 +1,2 @@
 # machine-learning 
-Machine Learning example tutorials (Jupyter notebooks)
+Machine Learning example tutorials (Jupyter notebooks) 
