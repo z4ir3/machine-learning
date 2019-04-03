@@ -1,2 +1,4 @@
 # machine-learning 
-Machine Learning example tutorials (Jupyter notebooks) 
+
+Machine Learning example tutorials for supervised and unsupervised algorithms 
+using python library scikit-learn (Jupyter notebooks) 
